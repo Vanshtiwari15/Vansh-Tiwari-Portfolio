@@ -1,0 +1,6 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="420" height="320" viewBox="0 0 420 320" fill="none">
+  <rect width="420" height="320" rx="18" fill="#101828"/>
+  <circle cx="210" cy="120" r="56" fill="#1F2A44"/>
+  <rect x="110" y="200" width="200" height="80" rx="16" fill="#1F2A44"/>
+  <text x="210" y="300" text-anchor="middle" font-size="16" fill="#9AA4B2" font-family="Inter, Arial, sans-serif">Replace with your photo</text>
+</svg>
