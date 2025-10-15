@@ -34,4 +34,4 @@ This is a static form. Options:
 
 ---
 
-Built for Vansh — happy shipping!
+Built by Vansh Tiwari
